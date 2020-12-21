@@ -3,15 +3,15 @@
 
 ## Habilidades técnicas que valoramos positivamente
 - **Desarrollo**
-    - Java / SpringBoot :heart: :heart: :heart_blue: :heart_blue: :heart_blue:
+    - Java / SpringBoot :heart: :heart: :blue_heart: :blue_heart: :blue_heart:
 - **Scripting**
-  - Golang  :heart: :heart: :heart: :heart: :heart_blue:
-  - Python :heart: :heart: :heart: :heart_blue: :heart_blue:
-  - Bash :heart: :heart: :heart_blue: :heart_blue: :heart_blue:
-- Conocimiento de sistemas distribuidos :heart: :heart: :heart: :heart: :heart_blue:
-- Kubernetes :heart: :heart: :heart: :heart: :heart_blue:
-- Troubleshooting :heart: :heart: :heart: :heart_blue: :heart_blue:
-- Monitoring :heart: :heart: :heart: :heart: :heart_blue:
+  - Golang  :heart: :heart: :heart: :heart: :blue_heart:
+  - Python :heart: :heart: :heart: :blue_heart: :blue_heart:
+  - Bash :heart: :heart: :blue_heart: :blue_heart: :blue_heart:
+- Conocimiento de sistemas distribuidos :heart: :heart: :heart: :heart: :blue_heart:
+- Kubernetes :heart: :heart: :heart: :heart: :blue_heart:
+- Troubleshooting :heart: :heart: :heart: :blue_heart: :blue_heart:
+- Monitoring :heart: :heart: :heart: :heart: :blue_heart:
 
 ## Habilidades personales que nos encantaría que tuvieras
 - Proactiva
