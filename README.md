@@ -6,4 +6,4 @@ In this repository you can find all the open job opportunities in Virtual Cave r
 
 To apply to any open job opportunity, please send us an email to [joinus@virtualcave.io](mailto:joinus@virtualcave.io)
 
-*WE WANT YOU!*
+**WE WANT YOU!**
