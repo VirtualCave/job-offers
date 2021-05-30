@@ -1,7 +1,7 @@
 
 # :wrench: SRE Engineer
 
-En **Virtual Cave** estamos buscando *SRE engineers*, para colaborar estrechamente con los distintos equipos de desarrollo para garantizar que la solución diseñada responda a requisitos no funcionales como la disponibilidad, el rendimiento, la seguridad y la facilidad de mantenimiento. Otra de sus atribuciones será colaborar también con los *DevOps engineers* para garantizar que el proceso de entrega de software sea lo más eficiente, rápido y seguro posible.
+En **Virtual Cave** estamos buscando *SRE engineers* para colaborar estrechamente con los distintos equipos de desarrollo y garantizar que las soluciones diseñadas respondan a requisitos no funcionales como la disponibilidad, el rendimiento, la seguridad y la facilidad de mantenimiento. Otra de sus atribuciones será colaborar también con los *DevOps engineers* para garantizar que el proceso de entrega de software sea lo más eficiente, rápido y seguro posible.
 
 ## ¿Qué buscamos?
 
@@ -10,7 +10,7 @@ En **Virtual Cave** estamos buscando *SRE engineers*, para colaborar estrechamen
 - **Desarrollo**
     - Java / SpringBoot :heart: :heart: :blue_heart: :blue_heart: :blue_heart:
 - **Scripting**
-  - Golang  :heart: :heart: :heart: :heart: :blue_heart:
+  - Golang  :heart: :heart: :heart: :blue_heart: :blue_heart:
   - Python :heart: :heart: :heart: :blue_heart: :blue_heart:
   - Bash :heart: :heart: :blue_heart: :blue_heart: :blue_heart:
 - **Conocimiento de sistemas distribuidos** :heart: :heart: :heart: :heart: :blue_heart:

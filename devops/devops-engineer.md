@@ -1,7 +1,7 @@
 
 # :rocket: DevOps Engineer
 
-En **Virtual Cave** estamos buscando *DevOps engineers*. Esa persona debe combinar conocimientos de infrastructura, release managament y desarrollo. Un *DevOps engineer* deben colaborar con los equipos de desarrollado, equipos de infrastrucura y otros equipos del departamento de IT para gestionar de manera fluída, segura y constante el lanzamiento de nuevas versiones de código. Deben ser personar flexibles dispuestas a cruzar las fronteras que existen entre los equipos de desarrollo, QA y operaciones para engrasar todos los engranajes de la maquinaria del departamento de IT.
+En **Virtual Cave** estamos buscando *DevOps engineers*. Necesitamos personas que combinen conocimientos de infrastructura, *release management* y desarrollo tendrán que colaborar con los equipos de desarrollo, infrastructura y otros equips del departamento de IT para gestionar de manera fluída, segura y constante el lanzamiento de nuevas versiones de código. Queremos integrar personas flexibles, dispuestas a cruzar las fronteras que existen entre los equipos de desarrollo, QA y operaciones para engrasar todos los engranajes de la maquinaria del departamento de IT.
 
 ## ¿Qué buscamos?
 
