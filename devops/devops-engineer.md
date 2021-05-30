@@ -8,7 +8,7 @@ En **Virtual Cave** estamos buscando *DevOps engineers*. Necesitamos personas qu
 ### Habilidades técnicas que valoramos positivamente
 
 - **Experiencia en cloud**
-  - AWS :heart: :heart: :heart: :heart: :blue_heart:
+  - Público :heart: :heart: :heart: :heart: :blue_heart:
   - Híbridos :heart: :heart: :heart: :blue_heart: :blue_heart:
 - **Conocimiento del ciclo de CI/CD**
   - GitHub actions :heart: :heart: :heart: :heart: :heart:  
