@@ -1,7 +1,7 @@
 # :cyclone: Delivery manager táctico
 
 En **Virtual Cave** estamos buscando *Delivery managers tácticos*.
-Estamos interesados en potenciar la correcta y eficiente gestión de equipos técnicos de alto rendimiento, llevandolos a una mejor y óptima entrega de valor así como una buena integración en las organizaciones de nuestros clientes.
+Estamos interesados en potenciar la correcta y eficiente gestión de equipos técnicos de alto rendimiento, llevándolos a una mejor y óptima entrega de valor así como una buena integración en las organizaciones de nuestros clientes.
 
 ## ¿Qué buscamos?
 
@@ -47,10 +47,10 @@ Estamos interesados en potenciar la correcta y eficiente gestión de equipos té
 - **Coaching** :heart: :heart: :heart: :blue_heart: :blue_heart:
 
 ### Habilidades tecnológicas que nos encantaría que tuvieras
-- **Buenas prácticas QA** :heart: :heart: :heart: :heart: :blue_heart:
-- **Buenas prácticas CI/CD** :heart: :heart: :heart: :blue_heart: :blue_heart:
+- **Buenas prácticas QA** :heart: :heart: :heart: :heart_heart: :blue_heart:
+- **Buenas prácticas CI/CD** :heart: :heart: :heart_heart: :blue_heart: :blue_heart:
 - **Conocimientos en ingeniería software** :heart: :heart: :blue_heart: :blue_heart: :blue_heart:
-- **Familiarizado con lenguajes de desarrollo** :heart: :heart: :blue_heart: :blue_heart: :blue_heart:
+- **Familiarizado con lenguajes de desarrollo** :heart: :heart_heart: :blue_heart: :blue_heart: :blue_heart:
 
 ### Habilidades personales que nos encantaría que tuvieras
 - **Proactividad** :heart: :heart: :heart: :heart: :heart:
