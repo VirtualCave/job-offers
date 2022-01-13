@@ -28,14 +28,22 @@ En **Virtual Cave** estamos buscando *Technical leads* para equipos backend con 
   - Mock libraries :heart: :heart: :heart: :heart: :heart:
   - KarateUI :heart: :heart: :heart: :blue_heart: :blue_heart:
   - Cucumber :heart: :heart: :blue_heart: :blue_heart: :blue_heart:
+- **Bases de datos**
+  - SQL :heart: :heart: :heart: :heart: :blue_heart:
+  - MongoDB :heart: :heart: :heart: :heart: :blue_heart:
+  - CouchBase :heart: :heart: :heart: :heart: :blue_heart:
 - **Conocimiento del ciclo de CI/CD**
   - Git :heart: :heart: :heart: :heart: :blue_heart:  
   - Branching models :heart: :heart: :heart: :heart: :blue_heart:  
   - Conocimientos servidores CI/CD :heart: :heart: :heart: :blue_heart: :blue_heart:  
+  - GitHub actions :heart: :heart: :heart: :blue_heart: :blue_heart:  
+  - Bamboo :heart: :heart: :blue_heart: :blue_heart: :blue_heart:
+  - BitBucket :heart: :heart: :blue_heart: :blue_heart: :blue_heart:  
 - **Definición y consumo de APIs**
   - Openapi :heart: :heart: :heart: :heart: :blue_heart:
   - gRPC :heart: :heart: :heart: :blue_heart: :blue_heart:
   - Async :heart: :heart: :heart: :blue_heart: :blue_heart:
+  - Avro :heart: :heart: :heart: :heart: :blue_heart:
 - **Experiencia con marcos de trabajo ágiles** 
   - Scrum :heart: :heart: :heart: :blue_heart: :blue_heart:
 
