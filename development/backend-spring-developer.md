@@ -27,6 +27,10 @@ En **Virtual Cave** estamos buscando *Backend developers*. Estamos interesados e
   - Mockito :heart: :heart: :heart: :heart: :blue_heart:
   - KarateUI :heart: :heart: :heart: :blue_heart: :blue_heart:
   - Cucumber :heart: :heart: :blue_heart: :blue_heart: :blue_heart:
+- **Bases de datos**
+  - SQL :heart: :heart: :heart: :blue_heart: :blue_heart:
+  - MongoDB :heart: :heart: :heart: :blue_heart: :blue_heart:
+  - CouchBase :heart: :heart: :heart: :blue_heart: :blue_heart:
 - **Conocimiento del ciclo de CI/CD**
   - Git :heart: :heart: :heart: :heart: :blue_heart:  
   - GitHub actions :heart: :heart: :heart: :blue_heart: :blue_heart:  
@@ -38,11 +42,11 @@ En **Virtual Cave** estamos buscando *Backend developers*. Estamos interesados e
   - Async :heart: :heart: :heart: :blue_heart: :blue_heart:
   - Avro :heart: :heart: :heart: :heart: :blue_heart:
 - **Filosofía**
-- API first :heart: :heart: :heart: :blue_heart: :blue_heart:
-- Design patterns :heart: :heart: :heart: :heart: :blue_heart:
-- Clean code :heart: :heart: :heart: :heart: :blue_heart:
-- Clean architecture :heart: :heart: :heart: :blue_heart: :blue_heart:
-- DDD :heart: :heart: :heart: :heart: :blue_heart:
+  - API first :heart: :heart: :heart: :blue_heart: :blue_heart:
+  - Design patterns :heart: :heart: :heart: :heart: :blue_heart:
+  - Clean code :heart: :heart: :heart: :heart: :blue_heart:
+  - Clean architecture :heart: :heart: :heart: :blue_heart: :blue_heart:
+  - DDD :heart: :heart: :heart: :heart: :blue_heart:
 - **Experiencia con marcos de trabajo ágiles** :heart: :heart: :heart: :blue_heart: :blue_heart:
 
 ### Habilidades personales que nos encantaría que tuvieras
