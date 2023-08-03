@@ -48,7 +48,7 @@ Cómo definición del rol usamos la siguiente:
   - Scrum :heart: :heart: :heart: :heart: :heart:
   - Kanban :heart: :heart: :heart: :heart: :heart:
   - Lean :heart: :heart: :heart: :heart: :blue_heart:
-  - Extremme Programming :heart: :heart: :heart: :blue_heart: :blue_heart:
+  - Extreme Programming :heart: :heart: :heart: :blue_heart: :blue_heart:
   - Crystal Clear :heart: :heart: :blue_heart: :blue_heart: :blue_heart:
 
 - **Conocimientos de Frameworks de trabajo escalados**
