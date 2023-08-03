@@ -103,6 +103,7 @@ Cómo definición del rol usamos la siguiente:
 - **Capacidad para entender problemas complejos** :heart: :heart: :heart: :heart: :blue_heart:
 - **Ganas de aprender** :heart: :heart: :heart: :heart: :heart:
 
+
 ## ¿Qué ofrecemos?
 
 - Incorporación a una compañía con un equipo técnico especializado en software y sistemas IT de alto rendimiento y escalabilidad.
