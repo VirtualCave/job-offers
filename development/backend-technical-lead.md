@@ -21,8 +21,8 @@ En **Virtual Cave** estamos buscando *Technical leads* para equipos backend con 
   - JavaScript :heart: :heart: :heart: :blue_heart: :blue_heart:
   - Golang :heart: :heart: :heart: :blue_heart: :blue_heart:
 - **Programación reactiva**
-  - Reactor :heart: :heart: :heart: :heart: :heart:
-  - JavaRx :heart: :heart: :heart: :blue_heart: :blue_heart:
+  - Project Reactor :heart: :heart: :heart: :heart: :heart:
+  - Webflux :heart: :heart: :heart: :blue_heart: :blue_heart:
 - **QA** 
   - JUnit :heart: :heart: :heart: :heart: :heart:
   - Mock libraries :heart: :heart: :heart: :heart: :heart:
@@ -32,6 +32,12 @@ En **Virtual Cave** estamos buscando *Technical leads* para equipos backend con 
   - SQL :heart: :heart: :heart: :heart: :blue_heart:
   - MongoDB :heart: :heart: :heart: :heart: :blue_heart:
   - CouchBase :heart: :heart: :heart: :heart: :blue_heart:
+  - Redis :heart: :heart: :heart: :heart: :blue_heart:
+- **Observabilidad**
+  - Grafana :heart: :heart: :heart: :heart: :blue_heart:
+  - Zipkin :heart: :heart: :heart: :heart: :blue_heart:
+  - Datadog  :heart: :heart: :heart: :blue_heart: :blue_heart:
+  - Plataformas de logs :heart: :heart: :heart: :heart: :blue_heart:
 - **Conocimiento del ciclo de CI/CD**
   - Git :heart: :heart: :heart: :heart: :blue_heart:  
   - Branching models :heart: :heart: :heart: :heart: :blue_heart:  
