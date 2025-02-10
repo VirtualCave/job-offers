@@ -10,7 +10,7 @@ En **Virtual Cave** estamos buscando *Technical leads* para equipos backend con 
 - **Arquitectura de soluciones**
   - Diseño de arquitecturas escalables y de alta disponibilidad :heart: :heart: :heart: :heart: :blue_heart:
   - Microservices patterns :heart: :heart: :heart: :heart: :blue_heart:
-  - Arquitecturas orientadas a eventos :heart: :heart: :heart: :heart: :blue_heart:
+  - Arquitecturas hexagonal :heart: :heart: :heart: :heart: :blue_heart:
   - Definición de roadmaps tecnológicos :heart: :heart: :heart: :blue_heart: :blue_heart:
 - **Conocimientos de Java**
   - J2EE :heart: :heart: :heart: :heart: :heart:
@@ -23,6 +23,9 @@ En **Virtual Cave** estamos buscando *Technical leads* para equipos backend con 
 - **Programación reactiva**
   - Project Reactor :heart: :heart: :heart: :heart: :heart:
   - Webflux :heart: :heart: :heart: :blue_heart: :blue_heart:
+- **Arquitecturas orientadas a eventos**
+  - Kafka :heart: :heart: :heart: :heart: :heart:
+  - JMS :heart: :heart: :heart: :heart: :heart:
 - **QA** 
   - JUnit :heart: :heart: :heart: :heart: :heart:
   - Mock libraries :heart: :heart: :heart: :heart: :heart:
